@@ -7,5 +7,6 @@ int main()
     scanf("%s", a);
     printf("%s", a);
     printf("%s", "test2");
+    printf("%s", "test3");
     return 0;
 }
